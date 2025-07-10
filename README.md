@@ -1,16 +1,16 @@
 ## Hi there 👋
+MSc Computer Science graduate passionate about web development and data analytics.
+About Me
+- Currently learning the MERN stack
+- Exploring data analytics with Python, Pandas, SQL
+- 📫 Reach me at: sampadatidke21@gmail.com
 
-<!--
-**SAMPADA-T/SAMPADA-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Languages: Java, Python, JavaScript 
+Web: HTML, CSS, AngularJS, Node.js, ReactJS
+Database: MySQL, MongoDB  
+Tools: VS Code 
+OS: Windows 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me
+LinkedIn:https://www.linkedin.com/in/sampada-tidke-a63537223
