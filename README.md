@@ -1,4 +1,9 @@
-                              ## Hi there
+## Hi there
+<p align="center">
+  <h1>Hi there 👋, I'm Sam T</h1>
+</p>
+
+
 
 ## About Me
 I am currently focused on learning the MERN stack for full-stack web development. 
