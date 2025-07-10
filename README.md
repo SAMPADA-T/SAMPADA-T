@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 I have completed my MSc in Computer Science and have practical experience in programming, web development, and data analytics. 
 I am looking for an entry-level software engineering role to apply my skills and continue learning.
 
