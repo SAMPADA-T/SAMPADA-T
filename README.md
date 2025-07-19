@@ -1,7 +1,7 @@
 
 ## About Me
-I am currently focused on learning the MERN stack for full-stack web development. 
-Additionally, I am building skills in data analytics using Python, Pandas, and SQL.  
+MSc Computer Science graduate with strong programming skills, 
+seeking an entry level role to apply and enhance my knowledge in a professional environment.
 
 **You can reach me at:** sampadatidke21@gmail.com
 
